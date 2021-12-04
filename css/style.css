@@ -13,7 +13,9 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #000000;
 }
 .container {
@@ -70,12 +72,12 @@ body {
   padding: 20px;
   width: 400px;
 }
-.main-information{
+.main-information {
   font-weight: 900;
   font-size: 20px;
   margin-bottom: 15px;
 }
-.main-information > li{
+.main-information > li {
   margin-bottom: 15px;
 }
 .main-title {
@@ -139,22 +141,24 @@ body {
   font-size: 20px;
   margin-bottom: 15px;
 }
-.main-title-language{
+.main-title-language {
   color: #1100ff;
   font-size: 25px;
   font-weight: 600;
   line-height: 1.23;
 }
-.main-language{
+.main-language {
   font-weight: 900;
   font-size: 20px;
 }
-.main-language>li{
+.main-language > li {
   margin-bottom: 15px;
 }
-.footer-content{
+/*=====================MAIN STYLES END======================*/
+/*=====================FOOTER START======================*/
+.footer-content {
   width: auto;
   height: 120px;
   background-color: #212529;
 }
-/*=====================MAIN STYLES END======================*/
+/*=====================FOOTER END======================*/
